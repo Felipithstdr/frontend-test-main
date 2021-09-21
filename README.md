@@ -13,9 +13,11 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 
 ## Install JSON Server
 
+--------------------------------------------------------------------------------------------------------
+
 npm install -g json-server
 
-* Para dar star na aplicação segue a baixo o comando:
+* Para dar start na aplicação segue a baixo o comando:
 
 ## Start JSON Server
 
